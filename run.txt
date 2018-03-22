@@ -1,0 +1,9 @@
+Please run the online_cnn_dm.py file.
+You need to provide the path for the root directories for the cnn and dailymail stories.
+You also need to provide the name of the vocabulary file which contains one word in every line.
+Please set the hyperparameters properly.
+
+DATASET Information:
+	Download the cnn and dailymail stories from the deepmind website (https://cs.nyu.edu/%7Ekcho/DMQA/). Download the stories folder.
+	Either prepare the vocab file from (https://drive.google.com/file/d/0BzQ6rtO2VN95a0c3TlZCWkl3aU0/view?usp=sharing It contains various other files which are not needed.) or prepare yourself.
+
